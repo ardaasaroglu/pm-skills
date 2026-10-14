@@ -4,6 +4,10 @@
 
 - Added Cursor plugin manifests: a root `.cursor-plugin/marketplace.json` and a `.cursor-plugin/plugin.json` in every plugin, mirroring the Claude manifests. Claude manifests are unchanged.
 
+### pm-execution
+
+- Added the **implementation-simulation** skill and `/simulate-implementation` command: a panel of developer personas mentally builds a PRD, epic, or stories before handoff and logs only decision-blocking friction; a skeptic pass sorts each finding into a dev blocker, a PM scope question, or noise, and the output is a Pre-Handoff Simulation Report with a punch list (#NN, thanks @ardaasaroglu).
+
 ## v2.2.0 — 2026-10-10
 
 ### pm-execution
