@@ -6,7 +6,7 @@
 
 ### pm-execution
 
-- Added the **implementation-simulation** skill and `/simulate-implementation` command: a panel of developer personas mentally builds a PRD, epic, or stories before handoff and logs only decision-blocking friction; a skeptic pass sorts each finding into a dev blocker, a PM scope question, or noise, and the output is a Pre-Handoff Simulation Report with a punch list (#NN, thanks @ardaasaroglu).
+- Added the **implementation-simulation** skill and `/simulate-implementation` command: a panel of developer personas mentally builds a PRD, epic, or stories before handoff and logs only decision-blocking friction; a skeptic pass sorts each finding into a dev blocker, a PM scope question, or noise, and the output is a Pre-Handoff Simulation Report with a punch list (#73, thanks @ardaasaroglu).
 
 ## v2.2.0 — 2026-10-10
 
